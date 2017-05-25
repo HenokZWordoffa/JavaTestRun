@@ -1,5 +1,5 @@
 package classRoom406;
-
+/*A java code used to check the number of days in each month*/
 import java.util.Scanner;
 
 public class monthChar {
